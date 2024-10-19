@@ -30,7 +30,7 @@
 
 	// Добавляем изображения в массив
 	for (let i = 1; i <= 19; i++) {
-			properties.particleImages.push(`../images/${i}.png`);
+			properties.particleImages.push(`./images/${i}.png`);
 	}
 
 	// Создаем массив объектов изображений
